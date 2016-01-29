@@ -1,1 +1,3 @@
-# belajar-spring1
+# Belajar Spring #
+
+konfigurasi build menggunakan Gradle
